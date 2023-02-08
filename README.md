@@ -1,6 +1,6 @@
 <div align="center" id="header">
   
-  <h3>Automação com Python utilizando Pyautogui</h3>
+  <h1>Automação com Python utilizando Pyautogui</h1>
 </div>
 
 ## O projeto
@@ -11,7 +11,7 @@
 <!-- ============== ABOUT ============== -->
 ## About the project
 
-<div align="center">
+<div>
   Arquivo para envio de e-mails com resultados de vendas automatizados. Lembrando que este código funciona através do clique em pontos específicos da tela, o que significa que em cada computador o código varia de acordo com o tamanho da tela ou com a rotina do próprio usuário.
 </div>
 
