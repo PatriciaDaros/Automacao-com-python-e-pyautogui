@@ -9,7 +9,7 @@
 
 
 <!-- ============== ABOUT ============== -->
-## About the project
+## Sobre o projeto
 
 <div>
   Arquivo para envio de e-mails com resultados de vendas automatizados. Lembrando que este código funciona através do clique em pontos específicos da tela, o que significa que em cada computador o código varia de acordo com o tamanho da tela ou com a rotina do próprio usuário.
@@ -17,7 +17,7 @@
 
 
 <!-- ============== LANGUAGE ============== -->
-## Language and tools
+## Linguagens e ferramentas
 
 ```
 > Python3
@@ -25,7 +25,7 @@
 ```
 
 <!-- ============== INSTALLATION ============== -->
-## Installation
+## Instalação
 
 ```
 Git Clone https://github.com/PatriciaDaros/Automacao-com-python-e-pyautogui.git
@@ -33,13 +33,13 @@ Git Clone https://github.com/PatriciaDaros/Automacao-com-python-e-pyautogui.git
 
 
 <!-- ============== LICENSE ============== -->
-## License
+## Licença
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- ============== AUTHOR ============== -->
-## Author
+## Autor
 
 [<img alt="PatriciaRegina" src="https://github.com/PatriciaDaros.png?size=300" width="115"><br><sub>@PatriciaDaros</sub>](https://github.com/PatriciaDaros)
 
