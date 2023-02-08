@@ -3,16 +3,12 @@
   <h1>Automação com Python utilizando Pyautogui</h1>
 </div>
 
-## O projeto
-
-<a href="#"><img src="Animação.gif" alt="Logo"></a>
-
-
-<!-- ============== ABOUT ============== -->
 ## Sobre o projeto
 
 <div>
-  Arquivo para envio de e-mails com resultados de vendas automatizados. Lembrando que este código funciona através do clique em pontos específicos da tela, o que significa que em cada computador o código varia de acordo com o tamanho da tela ou com a rotina do próprio usuário.
+  Arquivo para envio de e-mails com resultados de vendas automatizados. Lembrando que este código funciona através do clique em pontos específicos da tela, o que significa que em cada computador o código varia de acordo com o tamanho da tela ou com a rotina do próprio usuário. Desenvolvido durante o intensivão de python da hashtag treinamentos.
+  
+  <a href="#"><img src="Animação.gif" alt="Logo"></a>
 </div>
 
 
