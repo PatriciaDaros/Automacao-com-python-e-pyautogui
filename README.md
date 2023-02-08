@@ -3,6 +3,10 @@
   <h3>Automação com Python utilizando Pyautogui</h3>
 </div>
 
+## O projeto
+
+<a href="#"><img src="Animação.gif" alt="Logo"></a>
+
 
 <!-- ============== ABOUT ============== -->
 ## About the project
